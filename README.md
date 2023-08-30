@@ -2,7 +2,7 @@
 
 
 
-### Some of my Github Stats
+## Some of my Github Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=natalia3ramirez&theme=transparent&ring=EBB353&fire=EBB353&currStreakLabel=EBB353)](https://git.io/streak-stats)
 
