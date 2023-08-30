@@ -1,60 +1,10 @@
-<h1 align="center">🚀 Welcome to [Your Name]'s Coding Galaxy! 🌌</h1>
+![Typing Animation]
+## Hey 👋, This is Natalia
+[![Gmail Badge](https://img.shields.io/badge/-nataliadevramirez@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nataliadevramirez@gmail.com)](mailto:nataliadevramirez@gmail.com) [![Github Badge](https://img.shields.io/badge/-natalia3ramirez-grey?style=flat&logo=github&logoColor=white&link=https://github.com/natalia3ramirez/)](https://www.github.com/natalia3ramirez/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://natalia3ramirez.github.io/#/)](https://natalia3ramirez.github.io/#/) <p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1fIj8A57Lrh7ulUXmOgVL7ftBMyZdCW5YeZPG1he5zbQ/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=natalia3ramirez alt=natalia3ramirez /> </p>
 
-<p align="center">
-  <img src="your-profile-image-url" alt="[Your Name]" width="200" />
-</p>
-
-<p align="center">
-  Hi there! I'm a code voyager exploring the realms of tech 🛸. From tinkering with code to crafting elegant solutions, I thrive on the art of creation.
-</p>
-
-<p align="center">
-  <img src="your-favorite-language-icon" alt="Favorite Language" width="30" />
-  <img src="your-favorite-framework-icon" alt="Favorite Framework" width="30" />
-  <img src="your-favorite-tool-icon" alt="Favorite Tool" width="30" />
-</p>
-
-<p align="center">
-  When not typing away at my keyboard, you might find me diving into lines of code underwater 🌊, or chasing wild bugs in the great outdoors 🌳.
-</p>
-
-<p align="center">
-  Let's build galaxies of code together! 🌟 Feel free to connect with me:
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/your-handle"><img src="twitter-icon" alt="Twitter" width="30" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="linkedin-icon" alt="LinkedIn" width="30" /></a>
-  <a href="mailto:your@email.com"><img src="email-icon" alt="Email" width="30" /></a>
-</p>
-
-<p align="center">
-  🚧 Currently working on something cool! Stay tuned for updates. 🚧
-</p>
-
-<p align="center">
-  <img src="animated-coding-gif" alt="Coding GIF" width="300" />
-</p>
-
-<p align="center">
-  🌟 May your code be bug-free and your journey full of discovery! 🌟
-</p>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=natalia3ramirez&show_icons=true&include_all_commits=true)](https://github.com/natalia3ramirez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalia3ramirez&layout=compact)](https://github.com/natalia3ramirez/github-readme-stats)
 
 
-
-### Hi there 👋
-
-<!--
-**Natalia3ramirez/natalia3ramirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
