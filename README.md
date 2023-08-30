@@ -15,17 +15,5 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=natalia3ramirez&show_icons=true&include_all_commits=true)](https://github.com/natalia3ramirez/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalia3ramirez&layout=compact)](https://github.com/natalia3ramirez/github-readme-stats)
 
