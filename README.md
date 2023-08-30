@@ -8,6 +8,14 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=natalia3ramirez alt=natalia3ramirez /> </p>
 
+## Some of my skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+
+
+
+
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=natalia3ramirez&show_icons=true&include_all_commits=true)](https://github.com/natalia3ramirez/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalia3ramirez&layout=compact)](https://github.com/natalia3ramirez/github-readme-stats)
 
